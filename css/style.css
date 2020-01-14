@@ -14,7 +14,7 @@ h2 {
 }
 
 .completed {
-  font-family: helvetica;
+  font-family: declaration;
 }
 
 #tasks .completed {
